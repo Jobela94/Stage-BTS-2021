@@ -14,7 +14,9 @@ Nous avions pour objectif de réaliser un site web en respectant le cahier des c
 
 **" Projet rendu final "** -> Fichier en .rar regroupement le code est les fichiers qui y sont liée tel que la base de donnée, les vues des pages web. Afin de faire fonctionner, il faudra installer MYSQL, Node js ainsi que ces librairies. 
 
->Pour lancer le site web, il faudra premièrement extraire le .rar puis, à l'aide d'un terminal comme cmd se placer dans le repertoire extrait avec la commande cd [le chemin du répertoire]. Vous y trouverez le fichier javascript app.js qui est notre serveur.
+>Pour lancer le site web, il faudra premièrement extraire le .rar vous y trouverez le fichier javascript app.js qui est notre serveur. A l'aide d'un terminal comme cmd se placer dans le repertoire extrait avec la commande : 
 
->Toujours dans le terminal, vous taperez "node app.js". Un message indiquera que le serveur est lancé et le port utilisé. 
+>cd [le chemin du répertoire]. 
+
+>Toujours dans le terminal, vous taperez "node app.js". Un message indiquera que le serveur est lancé et quel est le port utilisé. 
 Pour visualiser le site web, il faudra se rendre sur votre navigateur web et indiquer le port préablement cité de la façon suivante : "localhost:[le port en question]".
